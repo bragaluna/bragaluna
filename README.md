@@ -2,8 +2,6 @@
 
 **`Estudante de Computação`**
 
-Me chamo Luna Braga, tenho 19 anos e sou natural de Manaus, AM. Atualmente curso Ciência da Computação na UFAM e sou apaixonada pelas áreas de Machine Learning e Engenharia de Software. Desenvolvo pesquisas nas áreas de Quantificação de Biomarcadores com Modelos de Machine Learning e Engenharia de Requisitos.
-
 <p align="left">
     <a href="https://www.linkedin.com/in/luna-bragaa">
         <img 
