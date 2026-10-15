@@ -10,26 +10,13 @@
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-luna--bragaa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"
         />
     </a>
-    <a href="https://www.instagram.com/luna_bragaa">
-        <img 
-            alt="Instagram" 
-            title="Me siga no Instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-luna__bragaa-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"
-        />
-    </a>
-    <a href="https://open.spotify.com/user/677mun5p2qtmkhqhzjokstrg4">
-        <img 
-            alt="Spotify" 
-            title="Me siga no Spotify" 
-            src="https://custom-icon-badges.demolab.com/badge/Spotify-luna__bragaa-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1AA34A"
-        />
-    </a>
-</p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
+
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -63,6 +50,28 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
 <br/>
-
-
