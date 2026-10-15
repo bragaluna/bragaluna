@@ -2,15 +2,11 @@
 
 **`Estudante de Computação`**
 
-Me chamo Luna e estou no 4º período de Ciência da Computação na UFAM. Sou apaixonada por tecnologia desde pequena e gosto de entender bem um problema antes de resolvê-lo, aplicando engenharia de requisitos para isso, e Machine Learning e análise de dados para construir soluções que gerem impacto real. Fora da programação, gosto de filmes (desde ficção científica até filmes de máfia), de ouvir música (sempre ando com fones de ouvido na bolsa) e de treinar jiu-jitsu.
+Me chamo Luna e estou no 4º período de Ciência da Computação na UFAM. Sou apaixonada por tecnologia desde pequena e gosto de entender bem um problema antes de resolvê-lo. Fora da programação, gosto de filmes, de ouvir música e de treinar jiu-jitsu.
 
 **Pesquisa**
 - Quantificação de biomarcadores de subtipos do câncer de mama por algoritmos de Machine Learning
 - Construção de framework para identificar *dark patterns* em interfaces digitais
-
-**Trabalhos Acadêmicos**
-- Modelei um banco de dados relacional e implementei as consultas em SQL
-- Desenvolvi em C++ um "mini-SGBD" com buscas com e sem índices (hashing e árvore B+), comparando o desempenho
 
 **Projetos Pessoais**
 - **Sorrisos em Ação:** automação para coleta de mensagens via API, categorização de doações com Gemini e registro no Google Sheets
