@@ -2,7 +2,7 @@
 
 **`Estudante de Computação`**
 
-Me chamo Luna e estou no 4º período de Ciência da Computação na UFAM. Sou apaixonada por tecnologia desde pequena e gosto de entender bem um problema antes de resolvê-lo. Fora da programação, gosto de filmes, de ouvir música e de treinar jiu-jitsu.
+Olá! Me chamo Luna e estou no 4º período de Ciência da Computação na UFAM. Sou apaixonada por tecnologia desde pequena e gosto de entender um problema com calma, parte por parte, antes de resolvê-lo. Fora da programação, gosto de filmes, de ouvir música e de treinar jiu-jitsu (meu auge foi aos 9 anos).
 
 **Pesquisa**
 - Quantificação de biomarcadores de subtipos do câncer de mama por algoritmos de Machine Learning
