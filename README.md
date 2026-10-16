@@ -9,7 +9,7 @@ Olá! Me chamo Luna e estou no 4º período de Ciência da Computação na UFAM.
 - Construção de framework para identificar *dark patterns* em interfaces digitais
 
 **Certificações e Cursos**
-- Professional Scrum Master I (PSM I) — Scrum.org
+- Professional Scrum Master I (PSM I) - Scrum.org
 - Introdução à Estatística para Ciência de Dados I, II, III - Samsung Ocean
  
 <p align="left">
