@@ -2,15 +2,11 @@
 
 **`Estudante de Computação`**
 
-Olá! Me chamo Luna e estou no 4º período de Ciência da Computação na UFAM. Sou apaixonada por tecnologia desde pequena e gosto de entender um problema com calma, parte por parte, antes de resolvê-lo. Fora da programação, gosto de filmes, de ouvir música e de treinar jiu-jitsu (meu auge foi aos 9 anos).
+Olá! Me chamo Luna e estou no 4º período de Ciência da Computação na UFAM. Sou apaixonada por tecnologia desde pequena e participo de projetos de pesquisa em Machine Learning e Engenharia de Software. Fora da programação, gosto de filmes, de ouvir música e de treinar jiu-jitsu 🐵.
 
-**Pesquisa**
+**Pesquisas**
 - Quantificação de biomarcadores de subtipos do câncer de mama por algoritmos de Machine Learning
 - Construção de framework para identificar *dark patterns* em interfaces digitais
-
-**Projetos Pessoais**
-- **Sorrisos em Ação:** automação para coleta de mensagens via API, categorização de doações com Gemini e registro no Google Sheets
-- **FastAnki:** ferramenta que extrai o conteúdo de arquivos PDF e gera flashcards de estudo no aplicativo Anki
 
 **Certificações e Cursos**
 - Professional Scrum Master I (PSM I) — Scrum.org
